@@ -1,2 +1,2 @@
 # SpringLearning
-Repo with projects from my Learning of Spring
+Repo with projects from my Practice of Spring
